@@ -204,7 +204,7 @@ section{
 
 .home .share .fa-instagram:hover{
     box-shadow: var(--box-shadow-inset);
-    color: rgb(106, 17, 106);
+    color: rgb(187, 45, 45);
 }
 .home .share .fa-linkedin:hover{
     box-shadow: var(--box-shadow-inset);
@@ -212,7 +212,7 @@ section{
 }
 .home .share .fa-github:hover{
     box-shadow: var(--box-shadow-inset);
-    color: rgb(187, 45, 45);
+    color:rgb(106, 17, 106);
 }
 
 .about .row{
