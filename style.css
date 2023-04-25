@@ -202,9 +202,17 @@ section{
     border-radius: .5rem;
 }
 
-.home .share a:hover{
+.home .share .fa-instagram:hover{
     box-shadow: var(--box-shadow-inset);
-    color:var(--blue);
+    color: rgb(106, 17, 106);
+}
+.home .share .fa-linkedin:hover{
+    box-shadow: var(--box-shadow-inset);
+    color: var(--blue);
+}
+.home .share .fa-github:hover{
+    box-shadow: var(--box-shadow-inset);
+    color: rgb(187, 45, 45);
 }
 
 .about .row{
